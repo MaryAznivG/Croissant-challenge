@@ -1,0 +1,24 @@
+h1, p{
+    text-align: center;
+}
+p{
+    font-size: 18px;
+}
+.center{
+    display: block;
+    margin:auto;
+}
+body{
+    background-color: #f8edbf;
+}
+.primary-link{
+    display: flex;
+    justify-content: center;
+    color:green;
+    font-size: 16px;
+}
+.contact{
+    display: flex;
+    justify-content: center;
+    
+}
